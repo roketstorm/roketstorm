@@ -40,7 +40,7 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 - **English:** Professional, Fluent
 
 ## Skills
-[](https://icongr.am/devicon/android-original.svg?size=128&color=currentColor)
+<img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor"/>
 
 ## Miscellaneous 🏆
 
