@@ -9,7 +9,7 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 
 ---
 
-##💻 Employment
+## Employment 💻
 
 - **2017 - Now** - WEB/MOBILE DEVELOPER - "MEGI" LLC
     - Mobile app development on Flutter, Cordova, Bitrix Framework, Xamarin Framework and React Native. Back-end development using Ruby on Rails and Sinatra.
@@ -27,21 +27,21 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 - **2012-2014** - PHP DEVELOPER / MEDIA SERVER ADMINISTRATOR – RadioSky
     - Website development, setting up media server for internet radio based on Ubuntu, making an Android app
     
-##🎓 Education
+## Education 🎓
 
 - **2014 – 2016** - MASTER OF INFORMATION TECHNOLOGY – Ufa State Aviation Technical University (USATU)
     - Master's graduation project: "Music generating Web-service". Grade «A»
 - **2010 – 2014** - BACHELOR OF INFORMATION TECHNOLOGY – Ufa State Aviation Technical University (USATU)
     - Bachelor's graduation project: «Design and implementation of Web-based management application». Grade «A»
     
-##🌎 Languages
+## Languages 🌎
 
 - **Russian:** Native
 - **English:** Professional, Fluent
 
 ## Skills
 
-##🏆 Miscellaneous
+## Miscellaneous 🏆
 
 - Awardee of competition for students and graduates of Higher School of Economics in 2014 in section "Journalism - Media production in creative industries."
 - Awardee of regional competition «KRIT-2010» - «Game programming»
