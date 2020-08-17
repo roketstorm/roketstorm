@@ -12,7 +12,7 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 ## Employment
 
 - **2017 - Now** - WEB/MOBILE DEVELOPER - "MEGI" LLC
-    - Mobile app development on Cordova, Bitrix Framework, Xamarin Framework and React Native. Back-end development using Ruby on Rails and Sinatra.
+    - Mobile app development on Flutter, Cordova, Bitrix Framework, Xamarin Framework and React Native. Back-end development using Ruby on Rails and Sinatra.
 - **2016 - 2017** - WEB DEVELOPER – Webprostranstvo LLC
     - Website and web-app development on Bitrix Framework
     - Server administration for projects hosted on CentOS
