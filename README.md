@@ -7,8 +7,6 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 - [Skype](skype:rocketstormweb)
 - [Telegram](https://telegram.me/roketpik)
 
----
-
 ## Employment 💻
 
 - **2017 - Now** - WEB/MOBILE DEVELOPER - "MEGI" LLC
