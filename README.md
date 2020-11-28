@@ -42,8 +42,8 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 
 ## Miscellaneous 🏆
 
-- Awardee of competition for students and graduates of Higher School of Economics in 2014 in section "Journalism - Media production in creative industries."
 - Awardee of regional competition «KRIT-2010» - «Game programming»
 - Winner of regional competition «KRIT-2008» - «New word in programming»
 - Multiple participation in "LudumDare" rapid game development contest
 - Experience working as TOEFL test center administrator for 2 years
+- Awardee of competition for students and graduates of Higher School of Economics in 2014 in section "Journalism - Media production in creative industries."
