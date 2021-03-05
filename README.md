@@ -39,7 +39,7 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 ## Skills 🛠️
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="64"/>  <img alt="Flutter logo" height="64" width="224" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" integrity="sha256-HK9kdr7tdq3sPEd1htpU3mtVKy9CEI7FvGjcY7ri33U=" crossorigin="anonymous"> <img src="https://icongr.am/devicon/android-original.svg?size=64&color=currentColor"/> <img src="https://icongr.am/devicon/apple-original.svg?size=64&color=000000"/> <img src="https://icongr.am/devicon/linux-original.svg?size=64&color=000000"/> <img src="https://icongr.am/devicon/ruby-original.svg?size=64&color=000000"/> <img src="https://icongr.am/devicon/swift-original.svg?size=64&color=000000"/> <img src="https://icongr.am/devicon/git-original.svg?size=64&color=000000"/>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=roketstorm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=roketstorm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roketstorm)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Miscellaneous 🏆
 
