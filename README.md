@@ -39,7 +39,8 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 - **English:** Professional, Fluent
 
 ## Skills 🛠️
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="64"/> <img src="https://icongr.am/devicon/android-original.svg?size=64&color=currentColor"/> <img src="https://icongr.am/devicon/apple-original.svg?size=64&color=000000"/> <img src="https://icongr.am/devicon/ruby-original.svg?size=64&color=000000"/> <img src="https://icongr.am/devicon/swift-original.svg?size=64&color=currentColor"/>
+
+![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=roketstorm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
