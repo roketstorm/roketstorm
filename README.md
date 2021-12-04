@@ -9,7 +9,7 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 ## Employment 💻
 
 - **2021 - NOW** - FLUTTER DEVELOPER - SURFSTUDIO LLC
-    - Multiplatform app development
+    - Multiplatform app development on Flutter Framework
 - **2017 - 2021** - WEB/MOBILE DEVELOPER - MC "MEGI"
     - Mobile app development on Flutter, Cordova, Bitrix Framework, Xamarin Framework and React Native. Back-end development using Ruby on Rails and Sinatra.
 - **2016 - 2017** - WEB DEVELOPER – Webprostranstvo LLC
