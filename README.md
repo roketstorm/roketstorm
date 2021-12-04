@@ -36,7 +36,7 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 ## Languages 🌎
 
 - **Russian:** Native
-- **English:** Professional, Fluent
+- **English:** Professional
 
 ## Skills 🛠️
 
