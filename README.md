@@ -40,7 +40,7 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 
 ## Skills 🛠️
 
-![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![](https://img.shields.io/badge/iOS-CCCCCC?style=flat&logo=ios&logoColor=white) ![](https://img.shields.io/badge/GameDev-02569B?style=flat&logo=applearcade&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![](https://img.shields.io/badge/iOS-333333?style=flat&logo=ios&logoColor=white) ![](https://img.shields.io/badge/GameDev-02569B?style=flat&logo=applearcade&logoColor=white)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=roketstorm&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
