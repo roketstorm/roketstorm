@@ -40,7 +40,7 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 
 ## Skills 🛠️
 
-![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Csharp-02569B?style=flat&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/Ruby-E0115F?style=flat&logo=ruby&logoColor=white) ![](https://img.shields.io/badge/Android-34C759?style=flat&logo=android&logoColor=white) ![](https://img.shields.io/badge/iOS-333333?style=flat&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/C#-02569B?style=flat&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/Ruby-E0115F?style=flat&logo=ruby&logoColor=white) ![](https://img.shields.io/badge/Android-34C759?style=flat&logo=android&logoColor=white) ![](https://img.shields.io/badge/iOS-333333?style=flat&logo=ios&logoColor=white)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=roketstorm&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
