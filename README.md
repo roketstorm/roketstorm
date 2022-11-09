@@ -6,6 +6,8 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 - [LinkedIn Profile](http://linkedin.com/in/rocketstorm)
 - [Telegram](https://telegram.me/roketpik)
 
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=roketstorm)
+
 ## Employment 💻
 
 - **2021 - NOW** - FLUTTER DEVELOPER - SURFSTUDIO LLC
