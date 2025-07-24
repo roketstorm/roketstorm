@@ -9,6 +9,10 @@ I am a Full Stack Web and Mobile Developer with over 5 years of experience. I am
 
 ## Employment 💻
 
+- **2025 - NOW** - LEAD MOBILE DEVELOPER - Inventive Retail Group LLC
+    - Full-Stack mobile infrastructure development and management for retail
+- **2024 - 2025** - FLUTTER DEVELOPER - GETCRM LLC
+    - Multiplatform app development on Flutter Framework for B2B
 - **2021 - 2023** - FLUTTER DEVELOPER - SURFSTUDIO LLC
     - Multiplatform app development on Flutter Framework
 - **2017 - 2021** - WEB/MOBILE DEVELOPER - MC "MEGI"
